@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "pub_date": "2026-09-09T07:04:58.337Z",
+  "notes": "Actualización del instalador del programa",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.3.0/GritBase_0.3.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSTZudERvSE50akJwNFlZRHlNZEovOGEzZjRhRkhOdFlqVVFQbW02Mkgwc0ZSTkFNOFhpanFDQVQxakxkdCtINW00QUxSSHVQSFNybWV6L2krMnppbFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTM3NDk3CWZpbGU6R3JpdEJhc2VfMC4zLjBfeDY0LXNldHVwLmV4ZQpkUndkeEE0SGxEODA4cFRzQU9XV29nWjVUeXJUUndMUlhPV2hKdEl0dWxRTE1zd1VhbnBTdGNSWFJzOU5hZXJuTlVCRm9pdTcyWnphZTNHM0dTVFFCdz09Cg=="
+    }
+  }
+}
