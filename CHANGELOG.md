@@ -1,5 +1,12 @@
 # GritBase Desktop - historial de versiones
 
+## 0.5.0 - 2026-10-02
+
+A big update
+
+Commit fuente: a5177da1791e7d013664bbe849e15041ad7dd8d4
+
+
 ## 0.4.0 - 2026-09-09
 
 Actualización del cron e identificador de instalaciones

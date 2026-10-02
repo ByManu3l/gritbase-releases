@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "pub_date": "2026-09-09T16:45:53.602Z",
-  "notes": "Actualización del cron e identificador de instalaciones",
+  "version": "0.5.0",
+  "pub_date": "2026-10-02T16:21:59.993Z",
+  "notes": "A big update",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.4.0/GritBase_0.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSThNd1k5ZmxWREdLYkFjWE5YdithV0FoYVlMVktoYnEyeFg4T1c0b1pucnUzM3pJZndvK1AwaUp6ZEo2Z0JrMmVQcm1PYURlS25KdzV4bUhRQWlSendJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTcyMzUzCWZpbGU6R3JpdEJhc2VfMC40LjBfeDY0LXNldHVwLmV4ZQprQkFXekJmejd2aDBwVmpxa3dQRDE1dHg0OHd2Vjk1WnhHK3c4cWhBRzZ0VGVTTlorQmlNdzJQZkJnMTNwNk9qVFNycVcvckJPbE1ablZabVdvTW5EUT09Cg=="
+      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.5.0/GritBase_0.5.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSTJyVm1Vb2ZmcytoVGdFT2xaQTlRSUdzenp6ZXlEdWRqZ1lRSHA0bzFNb0dFYjJTUW11VGZ4Q3BPZGwrSDB0a3dDRWtzTkxHQSsrclNxWUhaSVRKSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU4MTE3CWZpbGU6R3JpdEJhc2VfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCm12d1hYZ2VTYkY0RGplZDZrWW5kdzJYTitETG9VamR0MVdkNUlLQTQ0TzAzdXFvOU9xMkVKVjhsVEpIV0JyTWw1RDhzUXZUVytJWURrdTJUTllRMURnPT0K"
     }
   }
 }
