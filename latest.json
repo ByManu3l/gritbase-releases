@@ -1,11 +1,11 @@
 {
-  "version": "0.5.0",
-  "pub_date": "2026-10-02T16:21:59.993Z",
-  "notes": "A big update",
+  "version": "0.5.1",
+  "pub_date": "2026-10-05T20:16:55.873Z",
+  "notes": "Update mínimo",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.5.0/GritBase_0.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSTJyVm1Vb2ZmcytoVGdFT2xaQTlRSUdzenp6ZXlEdWRqZ1lRSHA0bzFNb0dFYjJTUW11VGZ4Q3BPZGwrSDB0a3dDRWtzTkxHQSsrclNxWUhaSVRKSlFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTU4MTE3CWZpbGU6R3JpdEJhc2VfMC41LjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4wCm12d1hYZ2VTYkY0RGplZDZrWW5kdzJYTitETG9VamR0MVdkNUlLQTQ0TzAzdXFvOU9xMkVKVjhsVEpIV0JyTWw1RDhzUXZUVytJWURrdTJUTllRMURnPT0K"
+      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.5.1/GritBase_0.5.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSThwTHhKbFRPYk9wczRNMzJNS09SNjlldk1Yamw3YkxveVhjS21lb1Z4bWt5a2tXOElvbVZhVU1SRFpLcXBBRTFETmJVeGptSzYrZzRlSHFqbWhkemdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjMxNDE1CWZpbGU6R3JpdEJhc2VfMC41LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4xCi96SzVvRkFuUlNxUG9mbThpaW1YeWlDU1NpM0pXVnhYVVowMDlLRE9WMmlGdi9KWWUrSzVwNXRoRkY3MzlJU0M3RnhLU3dQSXYrTU03RmcwakJRY0FBPT0K"
     }
   }
 }
