@@ -1,5 +1,12 @@
 # GritBase Desktop - historial de versiones
 
+## 0.5.3 - 2026-10-10
+
+Fixes
+
+Commit fuente: 78899ab23920a7e8b53f08fa72744b2aed9cb940
+
+
 ## 0.5.2 - 2026-10-09
 
 Update major
