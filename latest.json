@@ -1,11 +1,11 @@
 {
-  "version": "0.5.3",
-  "pub_date": "2026-10-10T20:33:00.128Z",
-  "notes": "Fixes",
+  "version": "0.5.4",
+  "pub_date": "2026-10-16T05:49:31.522Z",
+  "notes": "GritBase ahora vive en gritbase.app. Esta versión habla con la dirección nueva. Además: el nombre de cada módulo, arriba a la izquierda, abre la lista de los demás para pasar de uno a otro sin volver al inicio, y la ficha del cliente tiene cambiar contraseña, activar o desactivar y eliminar.",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.5.3/GritBase_0.5.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSXd2WDcrTHBpTUFmVUY0LzVxNnJxV21xbDB1Z2sxY1VGNlBPVEVVZTdYaXNiVFc1dnlrb21VUGxEVHpjR2ltQzVxZ3ZXVnk2WHJPSWJnaTFzNlU1UHdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjY0MzQ4CWZpbGU6R3JpdEJhc2VfMC41LjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zCjExZ0t5RFJRZnJHTVpLSWxKbEtSWkw5M1g3VmZIcFdHVUhGUDRHVEYxamlEa2xoMlR5SWxzZ1kzc1E4eXE5V1RNODVtYzdHVkE5Q3dRU0RSTUsvdkRRPT0K"
+      "url": "https://github.com/ByManu3l/gritbase-releases/releases/download/desktop-v0.5.4/GritBase_0.5.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUd3ljcVhoYUpXSTgzOEs3eGYwc2xNaGtRWFljN0cvV0xXRlM3K2I0bjY5NTV2Um5FRzlQcTFlL1lSZkRNKzZPN0tMZ0JreWp5NXVVOWxBcVQrQVEwbjBkWW1MS2pDa1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTI5NzM4CWZpbGU6R3JpdEJhc2VfMC41LjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40CkNQZnZLMGgzMk5ZeEU2WUFIK0FTM3U4UU9tN2FYOEtXbE9DYVNIMTBqVkJ4M2NwVzJKMi8vNUxhZWl6TWsxV0QzRmN0YkdiZ1orWmZpMjk5N0FqTURnPT0K"
     }
   }
 }

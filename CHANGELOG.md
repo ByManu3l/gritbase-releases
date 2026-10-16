@@ -1,5 +1,12 @@
 # GritBase Desktop - historial de versiones
 
+## 0.5.4 - 2026-10-16
+
+GritBase ahora vive en gritbase.app. Esta versión habla con la dirección nueva. Además: el nombre de cada módulo, arriba a la izquierda, abre la lista de los demás para pasar de uno a otro sin volver al inicio, y la ficha del cliente tiene cambiar contraseña, activar o desactivar y eliminar.
+
+Commit fuente: cf289cfde71b730e29d32e9af544fe3842003d56
+
+
 ## 0.5.3 - 2026-10-10
 
 Fixes
