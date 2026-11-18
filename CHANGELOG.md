@@ -1,5 +1,20 @@
 # GritBase Desktop - historial de versiones
 
+## 0.5.7 - 2026-11-18
+
+- En celulares y computadores sencillos, el ejercicio en 3D se mueve más liviano y gasta menos batería.
+- El dueño ve un aviso para activar la verificación en dos pasos antes del 30 de noviembre; desde esa fecha la necesitará para ver la salud de sus clientes.
+- En el celular, la lista de clientes muestra la foto de perfil de cada cliente (o sus iniciales si no puso ninguna).
+- En la ficha del cliente se puede quitar su foto de perfil si no es apropiada. Lo puede hacer quien tenga el permiso «Editar fichas de clientes», y el dueño elige qué roles lo tienen.
+- Al poner su foto de perfil, el cliente no puede subir una de más de 15 MB.
+- En la lista de clientes aparece la foto de perfil de quienes la pusieron en su portal; los demás siguen con sus iniciales.
+- Cada cliente puede poner su foto de perfil desde su portal, tocando el círculo con sus iniciales arriba. Esa foto aparece en el kiosco cuando registra su entrada o su salida.
+- La foto de perfil es distinta de las fotos de progreso: estas siguen en «Progreso» y no salen en el kiosco.
+- El programa ya no se queda lento después de actualizarse o de tocar «Reintentar» en los cambios sin subir.
+
+Commit fuente: 8ff7b7370db3e91e1d07cfdcd14eb3e9e6fedfcc
+
+
 ## 0.5.4 - 2026-10-16
 
 GritBase ahora vive en gritbase.app. Esta versión habla con la dirección nueva. Además: el nombre de cada módulo, arriba a la izquierda, abre la lista de los demás para pasar de uno a otro sin volver al inicio, y la ficha del cliente tiene cambiar contraseña, activar o desactivar y eliminar.
